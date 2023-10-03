@@ -1,0 +1,26 @@
+{
+  "name": "web_crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node --no-warnings main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OkoliDaniel/Web_Crawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OkoliDaniel/Web_Crawler/issues"
+  },
+  "homepage": "https://github.com/OkoliDaniel/Web_Crawler#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jsdom": "^22.1.0"
+  }
+}
